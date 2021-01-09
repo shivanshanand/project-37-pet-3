@@ -1,6 +1,6 @@
 class Food{
     constructor(){
-       this.milkimg=loadImage("virtual pet images/milk.png");
+       this.milkimg=loadImage("milk.png");
      //   milkimg=this.image;
      
 
